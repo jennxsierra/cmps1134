@@ -1,0 +1,1 @@
+## [Individual Website](https://github.com/jennxsierra/foc) for Fundamentals of Computing Final Project
