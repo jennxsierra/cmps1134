@@ -1,4 +1,4 @@
-# [CMPS1131] Principles of Programming 1
+# [CMPS1134] Fundamentals of Computing
 
 | Attribute      | Details                                                    |
 |----------------|------------------------------------------------------------|
